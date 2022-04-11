@@ -1,5 +1,5 @@
 # TPs
-Tranajos practicos
+Trabajos practicos
 Estos archivos son trabajos practicos con el fin de afianzar los conocimientos aprendidos durante la cursada de algoritmos y programacion.
 
 
