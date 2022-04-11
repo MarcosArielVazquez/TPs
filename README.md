@@ -18,6 +18,6 @@ mediante scrapy y trae el articulo solicitado con sus precios y link de compras 
 
 4)TPATM.zip (Java)
 Es un proyecto donde se trato de recrear las funciones de un cajero automatico ,no tiene base de datos sino un archivo local con las cuentas de los  clientes 
-para simplificar el trabajo practico, los cuales se leen se verifican las cuentas y se acceden a las funciones del cajero :Depositar,extraer,verificar saldo,etc
+para simplificar el trabajo, los cuales se leen, se verifican las cuentas y se acceden a las funciones del cajero :Depositar,extraer,verificar saldo,etc.
 Se utilizo una interfaz grafica para hacer mas amigable su uso.
 
